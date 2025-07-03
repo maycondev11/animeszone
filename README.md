@@ -49,7 +49,13 @@ Na página `contato.html`, o formulário exige preenchimento correto dos campos.
 
 ## 5. Capturas de Tela
 
-**(Inserir aqui imagens reais do projeto rodando em diferentes páginas e tamanhos de tela)**
+**![image](https://github.com/user-attachments/assets/91376d48-430a-4ac4-8117-2f354648cf04)
+
+![image](https://github.com/user-attachments/assets/547eca76-3c12-4819-84ce-1847a4c1a0fb)
+
+![image](https://github.com/user-attachments/assets/b3ad2a58-f3c0-4352-b35e-176653bab830)
+
+**
 
 ## 6. Desafios Enfrentados
 
