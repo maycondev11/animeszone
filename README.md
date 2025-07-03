@@ -1,4 +1,4 @@
-# animeszone
+# animeszone- Projeto faculdade - Eng de sofware -front end.
 
 # Relatório Técnico - Projeto Front-End: Blog AnimeZone
 
@@ -86,7 +86,3 @@ O projeto **AnimeZone** foi desenvolvido com foco em boas práticas de programa�
 
 ---
 
-**Opcional**: \[Link da Versão Hospedada - GitHub Pages/Netlify] (se houver)
-
-**Aluno:** \[Seu Nome Aqui]
-**Data:** Julho de 2025
