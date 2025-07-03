@@ -55,6 +55,9 @@ Na página `contato.html`, o formulário exige preenchimento correto dos campos.
 
 ![image](https://github.com/user-attachments/assets/b3ad2a58-f3c0-4352-b35e-176653bab830)
 
+![image](https://github.com/user-attachments/assets/ef483869-7240-4eb3-bb71-8c6270041bdc)
+
+
 **
 
 ## 6. Desafios Enfrentados
